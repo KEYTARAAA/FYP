@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bc204a77372626b4491b8e4d01b31e6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - free: {fileID: 3629807277537887054, guid: 9d5b728298c1b5b438a985c159ac2bf1, type: 3}
+  - wall: {fileID: 9196466324710967004, guid: b8194f2da85657d43b34410626b9c0a0, type: 3}
+  - innerCurve: {fileID: 6230640472891434583, guid: b330fa6e0b523654a9928515fc1cc792, type: 3}
+  - outerCurve: {fileID: 746614336583788020, guid: b0a13ec2bc73f3b4cb8937fd46b63c3e, type: 3}
+  - fill: {fileID: 3417696625809572980, guid: bb630010de49ce042a5a36f2d22ad443, type: 3}
+  - pacManSpawn: {fileID: 3629807277537887054, guid: 9d5b728298c1b5b438a985c159ac2bf1, type: 3}
+  - ghostSpawn: {fileID: 3629807277537887054, guid: 9d5b728298c1b5b438a985c159ac2bf1, type: 3}
+  - floor: {fileID: 2716722651480116069, guid: fc3dfdb3b806768409ee81f081936bbf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
